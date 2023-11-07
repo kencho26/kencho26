@@ -1,0 +1,35 @@
+.parrents{
+    background-color: black;
+    margin-top: 50%;
+    margin-left:30% ;
+    width: 800px;
+    height: 700px;
+    border: 3px solid black;
+    position: relative;
+}
+.child{
+    background-color: blue;
+    padding-left: 40px;
+    margin-left:30px ;
+    width: 300px;
+    height: 150px;
+    border: 1px solid orangered;
+    position: absolute;
+}
+.child2{
+    background-color: brown;
+    margin-left: 50px;
+    margin-top: 50px;
+    width: 300px;
+    height: 150px;
+    border:1px solid green ;
+    position: absolute;
+}
+.child3{
+    background-color: chartreuse;
+    margin-right: 30px;
+    width: 300px;
+    height: 150px;
+    position:absolute ;
+    border: 1px solid blue;
+}
